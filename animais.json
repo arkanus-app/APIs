@@ -1,0 +1,38 @@
+{
+  "animais": {
+    "gatos": [
+      {
+        "id": 0,
+        "nome": "Persa",
+        "apelido": "Gustavo Ricardão"
+      },
+      {
+        "id": 1,
+        "nome": "Quiradon",
+        "apelido": "Miau que gatinho!"
+      },
+      {
+        "id": 2,
+        "nome": "Garfield",
+        "apelido": "Sei lá a raça"
+      }
+    ],
+    "cachorros": [
+      {
+        "id": 0,
+        "nome": "Labrador",
+        "apelido": "Ana Labradora"
+      },
+      {
+        "id": 1,
+        "nome": "Bulldog",
+        "apelido": "Carlos Bulldoguinho"
+      },
+      {
+        "id": 2,
+        "nome": "Vira-lata",
+        "apelido": "Vitor SemRaça"
+      }
+    ]
+  }
+}
