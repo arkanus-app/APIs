@@ -16,11 +16,6 @@ Mini Kraken is a Discord bot meticulously designed to enhance your tabletop RPG 
 - Poker Deck
 - Tarot Deck
 
-
-
-
-
-
 **Supported RPG Systems:**
 ![Supported & Available RPG Systems](https://apis.arkanus.app/img/app/en/Systems.webp)
 
@@ -52,18 +47,16 @@ Meet "Inanimalia Fortuna Tenebris Verteri," an Acolyte remaining from the great 
 **How to Use:**
 Using Mini Kraken is simple. Just type `/` and choose the desired command:
 - `/sheet`: Displays your character's sheet.
-- `/roll`: Rolls RPG dice.
+- `/d`: Rolls RPG dice.
 - `/send campaign`: Promote your RPG sessions.
 And much more! For a complete list of commands, use `/help`.
 
 ---
-
 **More Information:**
 Mini Kraken is the ideal choice for tabletop RPG players, streamlining sessions, providing a smoother gaming experience, and offering a variety of features for both Game Masters and players. Installation is easy:
 
 **Installation:**
-
-1. Go to the Mini Kraken page on the Discord App Store or website.
+1. Go to the Mini Kraken page on the Discord App Store or [Website](https://rpg.arkanus.app).
 2. Click "Add to Server."
 3. Select your desired Discord server.
 4. Click "Authorize." 
